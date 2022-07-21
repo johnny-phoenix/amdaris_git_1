@@ -1,0 +1,1 @@
+alert("the new one script2.js");
